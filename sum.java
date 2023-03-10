@@ -5,4 +5,4 @@ public class sum{
     int b=6;
     system.out.println("the sum is"  (a+b));
     }
-}
+} 
